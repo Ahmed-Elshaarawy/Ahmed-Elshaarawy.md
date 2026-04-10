@@ -9,7 +9,6 @@
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -22,17 +21,81 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" 
+    target="_blank" 
+    rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+---
+
+## 📱 Featured Product — Day Loop
+
+<div align="left">
+
+> **Build better habits. Earn rewards. Stay consistent.**
+
+Day Loop is a productivity & habit-tracking app with gamification — unlock achievement badges, sync your calendar, and visualise your progress with a live analytics dashboard.
+
+| | |
+|---|---|
+| 🏆 **Achievements** | Unlock badges as you hit milestones |
+| 📅 **Calendar Sync** | Integrates with your existing calendar |
+| 📊 **Analytics Dashboard** | Visual streak & progress tracking |
+| ✨ **Premium Features** | Exclusive notifications & rewards |
+| 🌍 **Multilingual** | English · Arabic · German · Spanish · French |
+
+**Built with:** Flutter · Dart · Firebase · Android · iOS
+
+<a href="https://play.google.com/store/apps/details?id=devloopers.site.dayloop" 
+  target="_blank"
+  rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Play-Download_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white" height="35" alt="Google Play"  />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/App_Store-Coming_Soon-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="35" alt="App Store coming soon"  />
+
+</div>
+
+---
+
+## 🛠️ Featured Tool — awesome-curator
+
+<div align="left">
+
+> **Auto-curate Awesome lists from GitHub — updated daily, zero manual effort.**
+
+A Python open-source tool that fetches trending GitHub repositories by topic,
+validates every link asynchronously, and renders a clean Markdown awesome list
+via GitHub Actions on a daily schedule.
+
+**Built with:** Python · PyGitHub · aiohttp · Jinja2 · Docker · GitHub Actions
+
+<a href="https://github.com/Ahmed-Elshaarawy/awesome-curator" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-awesome--curator-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="awesome-curator repo"  />
+</a>
+&nbsp;
+<a href="https://github.com/Ahmed-Elshaarawy/awesome-curator/blob/main/AWESOME.md"
+     target="_blank"
+     rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View-Awesome_List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white" height="35" alt="Awesome list"  />
+</a>
+
+</div>
+
+---
 
 <br clear="both">
 

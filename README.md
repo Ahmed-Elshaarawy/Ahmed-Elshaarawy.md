@@ -45,12 +45,13 @@
 
 <div align="left">
 
-> **Build better habits. Earn rewards. Stay consistent.**
+> **Voice-first habit tracking — capture routines instantly, stay consistent, and level up your progress.**
 
-Day Loop is a productivity & habit-tracking app with gamification — unlock achievement badges, sync your calendar, and visualise your progress with a live analytics dashboard.
+Day Loop is a productivity & habit-tracking app where **voice interaction is the core feature**. Users can instantly log and manage habits through voice, making daily tracking faster, more natural, and easier to maintain. On top of that, Day Loop adds gamification, calendar sync, and real-time analytics to keep motivation high.
 
 | | |
 |---|---|
+| 🎙️ **Voice-First Experience** | Log, manage, and interact with tasks and habits using voice commands |
 | 🏆 **Achievements** | Unlock badges as you hit milestones |
 | 📅 **Calendar Sync** | Integrates with your existing calendar |
 | 📊 **Analytics Dashboard** | Visual streak & progress tracking |

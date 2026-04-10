@@ -31,8 +31,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" 
-    target="_blank" 
-    rel="noopener noreferrer">
+     target="_blank" 
+     rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📱 Featured Product — Day Loop
+## 🚀 Flagship Product — Day Loop
 
 <div align="left">
 
@@ -61,8 +61,8 @@ Day Loop is a productivity & habit-tracking app where **voice interaction is the
 **Built with:** Flutter · Dart · Firebase · Android · iOS
 
 <a href="https://play.google.com/store/apps/details?id=devloopers.site.dayloop" 
-  target="_blank"
-  rel="noopener noreferrer">
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Google_Play-Download_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white" height="35" alt="Google Play"  />
 </a>
 &nbsp;
@@ -72,7 +72,7 @@ Day Loop is a productivity & habit-tracking app where **voice interaction is the
 
 ---
 
-## 🛠️ Featured Tool — awesome-curator
+## 🛠️ Engineering Project — awesome-curator
 
 <div align="left">
 
@@ -84,15 +84,46 @@ via GitHub Actions on a daily schedule.
 
 **Built with:** Python · PyGitHub · aiohttp · Jinja2 · Docker · GitHub Actions
 
-<a href="https://github.com/Ahmed-Elshaarawy/awesome-curator" target="_blank">
+<a href="https://github.com/Ahmed-Elshaarawy/awesome-curator" 
+   target="_blank" 
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-awesome--curator-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="awesome-curator repo"  />
 </a>
 &nbsp;
 <a href="https://github.com/Ahmed-Elshaarawy/awesome-curator/blob/main/AWESOME.md"
-     target="_blank"
-     rel="noopener noreferrer">
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View-Awesome_List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white" height="35" alt="Awesome list"  />
 </a>
+
+</div>
+
+---
+
+## 🎮 Game Jam Experience — Global Game Jam 2026
+
+<div align="left">
+
+### 🕹️ Masquerade Escape
+
+> Built a complete playable game in 48 hours — from concept to execution.
+
+A fast-paced escape experience developed during Global Game Jam 2026, focusing on rapid prototyping, gameplay design, and solving problems under extreme time constraints.
+
+🔗 
+<a href="https://globalgamejam.org/games/2026/masquerde-escape-9" 
+   target="_blank" 
+   rel="noopener noreferrer">
+   View Game
+</a>
+
+**Highlights:**
+- ⚡ Built in 48 hours
+- 🎮 Gameplay programming & design
+- 🤝 Team collaboration under pressure
+- 🧠 Rapid iteration & feature prioritization
+
+**Tech used:** Unity · C#
 
 </div>
 
